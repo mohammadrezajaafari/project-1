@@ -15,14 +15,14 @@ div.parent>div.child{
     width: 10%;
     display: inline-block;
     background-color:lightseagreen;
-    height: 800px;
+    height: 1500px;
 }
 
 div.parent>div.matin{
     width: 10%;
     display: inline-block;
     background-color:lightseagreen;
-    height: 800px;
+    height: 1500px;
    left: 90%;
    position: absolute;
     
@@ -31,14 +31,14 @@ div.parent>div.matin{
 
 div.parent>div.hamid{
     width: 70%;
-    height: 150px;
+    height: 250px;
     background-color: white;
     display: inline-block;
    position: absolute;
  left: calc(50% - 35%);
  border-right: 1px solid rgb(187, 196, 187);
  border-left: 1px solid rgb(187, 196, 187);
-font-size: 20px;
+font-size: 30px;
 word-spacing: 5px;
 text-transform: capitalize;
 
@@ -46,14 +46,14 @@ text-transform: capitalize;
 h1{
     padding-top: 10px;
     box-sizing: border-box;
-    width: 50%;
+    width: 80%;
 }
 
 div.parent>div.majid{
 position: absolute;
 width:80%;
 display: inline-block;
-top: 150px;
+top: 250px;
 height: 400px;
 
 }
@@ -80,7 +80,7 @@ div.parent>div.majid>div.fan>div.rood{
     height: 300px;
     background-color: brown;
     left: 30%;
-    top:100px ;
+    top:200px ;
     position: absolute;
     display: inline-block;
     border-top-left-radius:400px;
@@ -131,7 +131,7 @@ div.parent>div.nadim{
     background-color: white;
     display: inline-block;
     position: absolute;
-    top: 550px;
+    top: 650px;
     left: calc(50% - 35%);
     border-right: 1px solid rgb(187, 196, 187);
  border-left: 1px solid rgb(187, 196, 187);
@@ -144,6 +144,34 @@ div.parent>div.nadim>p{
     padding-right: 0px;
     font-size: 15px;
 }
+
+div.parent>div.saleh{
+    width: 70%;
+    height: 250px;
+    background-color: white;
+    display: inline-block;
+   position: absolute;
+ left: calc(50% - 35%);
+ border-right: 1px solid rgb(187, 196, 187);
+ border-left: 1px solid rgb(187, 196, 187);
+font-size: 35px;
+word-spacing: 10px;
+text-transform: capitalize;
+top: 800px;
+box-sizing: border-box;
+text-align: right;
+
+}
+div.parent>div.saleh>h1{
+    width: 90%;
+    height: 200px;
+    text-align: right;
+    right: 0px;
+    position: absolute;
+top: 30px;
+bottom: 0px;
+}
+
 
 
 
