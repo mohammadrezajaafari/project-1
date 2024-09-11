@@ -70,6 +70,8 @@ div.parent>div.majid>div.man{
     background-color: rgb(12, 190, 21);
     display: inline-block;
     position: absolute;
+    border-left:15px solid white ;
+    box-sizing: border-box;
 
 }
 
@@ -122,6 +124,25 @@ div.parent>div.majid>div.man>div.roof>img{
     border-bottom-right-radius:900px ;
     border-bottom:  15px solid white;
     border-right: 15px solid white;
+}
+div.parent>div.nadim{
+    width: 70%;
+    height: 150px;
+    background-color: white;
+    display: inline-block;
+    position: absolute;
+    top: 550px;
+    left: calc(50% - 35%);
+    border-right: 1px solid rgb(187, 196, 187);
+ border-left: 1px solid rgb(187, 196, 187);
+ border-bottom: 1px solid rgb(187, 196, 187);
+ padding-top: 40px;
+ box-sizing: border-box;
+}
+div.parent>div.nadim>p{
+    width: 100%;
+    padding-right: 0px;
+    font-size: 15px;
 }
 
 
