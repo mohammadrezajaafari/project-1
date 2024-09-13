@@ -15,14 +15,14 @@ div.parent>div.child{
     width: 10%;
     display: inline-block;
     background-color:lightseagreen;
-    height: 2000px;
+    height: 2500px;
 }
 
 div.parent>div.matin{
     width: 10%;
     display: inline-block;
     background-color:lightseagreen;
-    height: 2000px;
+    height: 2500px;
    left: 90%;
    position: absolute;
     
@@ -232,22 +232,50 @@ div.parent>div.omid{
     margin-top: 1520px;
     display: inline-block;
     left: 15%;
-    background-color: rgb(242, 247, 247);
     font-size:30px;
     padding-top: 60px;
     box-sizing: border-box;
+    border-right: 1px solid rgb(187, 196, 187);
 }
 div.parent>div.omid>h1{
     width: 70%;
     text-transform: capitalize;
 }
 
+div.parent>div.sarp{
+    width: 70%;
+    height:300px ;
+    position: absolute;
+    display: inline-block;
+    margin-top: 1770px;
+    
+left: 15%;
+border-right: 1px solid rgb(187, 196, 187);
+box-sizing: border-box;
+}
+
+div.parent>div.sarp>h3{
+    padding-left: 30%;
+    padding-top: 30px;
+    box-sizing: border-box;
+    text-transform: capitalize;
+}
+
+div.parent>div.sarp>div.ben{
+    width: 20%;
+    height: 200px;
+    position: absolute;
+    display: inline-block;
+    
+    border-bottom-right-radius:100px ;
+}
 
 
-
-
-
-
+div.parent>div.sarp>div.ben>img{
+    width: 100%;
+    height: 250px;
+    border-bottom-right-radius: 150px;
+}
 
 
 
