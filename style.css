@@ -252,6 +252,8 @@ div.parent>div.sarp{
 left: 15%;
 border-right: 1px solid rgb(187, 196, 187);
 box-sizing: border-box;
+border-left: 1px solid rgb(187, 196, 187) ;
+
 }
 
 div.parent>div.sarp>h3{
@@ -277,10 +279,25 @@ div.parent>div.sarp>div.ben>img{
     border-bottom-right-radius: 150px;
 }
 
+div.parent>div.sarp>p{
+    position: absolute;
+    padding-left: 30%;
+    padding-top:25px;
+    width: 40%;
+    text-align: justify;
+    font-size: 18px;
+    text-transform: capitalize;
+    word-spacing:1px;
 
+}
 
-
-
+div.parent>div.sarp>h4{
+    padding-left: 30%;
+    padding-top: 120px;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    color: rgb(124, 129, 124);
+}
 
 
 
