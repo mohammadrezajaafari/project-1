@@ -399,6 +399,161 @@ div.parent>div.zed>div.mina>nav>ul>li>a{
     color: black;
 }
 
+div.parent>div.zed>div.tina{
+    position: absolute;
+    display: inline-block;
+    width: 7%;
+    height:400px ;
+    margin-top: 65px;
+left: 40%;
+}
+
+div.parent>div.zed>div.tina>h3{
+    padding-bottom: 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+
+div.parent>div.zed>div.tina>nav{
+    width: 100%;
+    height:400px;
+}
+div.parent>div.zed>div.tina>nav>ul{
+    width: 100%;
+    height: 400px;
+    text-align: justify;
+    line-height: 40px;
+}
+div.parent>div.zed>div.tina>nav>ul>li{
+display: inline-block;
+}
+
+div.parent>div.zed>div.tina>nav>ul>li>a{
+    text-decoration: none;
+    color:  rgb(124, 129, 124);
+    font-size: 13px;
+    text-transform: capitalize;
+}
+
+
+
+div.parent>div.zed>div.dina{
+    position: absolute;
+    display: inline-block;
+    width: 9%;
+    height:400px ;
+    margin-top: 65px;
+left: 57%;
+}
+
+
+div.parent>div.zed>div.dina>h3{
+    padding-bottom: 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+
+div.parent>div.zed>div.dina>nav{
+    width: 100%;
+    height:400px;
+}
+div.parent>div.zed>div.dina>nav>ul{
+    width: 100%;
+    height: 400px;
+    text-align: justify;
+    line-height: 40px;
+}
+div.parent>div.zed>div.dina>nav>ul>li{
+display: inline-block;
+}
+
+div.parent>div.zed>div.dina>nav>ul>li>a{
+    text-decoration: none;
+    color:  rgb(124, 129, 124);
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+
+div.parent>div.zed>div.fina{
+    position: absolute;
+    display: inline-block;
+    width: 7%;
+    height:400px ;
+    margin-top: 65px;
+left: 75%;
+}
+
+
+div.parent>div.zed>div.fina>h3{
+    padding-bottom: 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+
+div.parent>div.zed>div.fina>nav{
+    width: 100%;
+    height:400px;
+}
+div.parent>div.zed>div.fina>nav>ul{
+    width: 100%;
+    height: 400px;
+    text-align: justify;
+    line-height: 40px;
+}
+div.parent>div.zed>div.fina>nav>ul>li{
+display: inline-block;
+}
+
+div.parent>div.zed>div.fina>nav>ul>li>a{
+    text-decoration: none;
+    color:  rgb(124, 129, 124);
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+
+
+div.parent>div.zed>div.gina{
+    position: absolute;
+    display: inline-block;
+    width: 10%;
+    height:400px ;
+    margin-top: 65px;
+left: 90%;
+}
+
+
+div.parent>div.zed>div.gina>h3{
+    padding-bottom: 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+
+div.parent>div.zed>div.gina>nav{
+    width: 100%;
+    height:400px;
+}
+div.parent>div.zed>div.gina>nav>ul{
+    width: 100%;
+    height: 400px;
+    text-align: justify;
+    line-height: 40px;
+}
+div.parent>div.zed>div.gina>nav>ul>li{
+display: inline-block;
+}
+
+div.parent>div.zed>div.gina>nav>ul>li>a{
+    text-decoration: none;
+    color:  rgb(124, 129, 124);
+    font-size: 12px;
+    text-transform: capitalize;
+}
 
 
 
